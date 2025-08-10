@@ -78,4 +78,3 @@ executable hs-tcp-server
 
     -- Dependancies
     build-depends: base >=4.7 && < 5, text, blaze-html, wai, scotty
-    ghc-options: -Wall
